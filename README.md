@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋, My name is Stanislav!)
+#### Software developer
+Currently I am studying now: React,Vue,TypeScript)
+
+------------------
+My projects: 
 
 <!--
 **Hardcodein/HardCodeIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
