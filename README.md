@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Stanislav!)
 #### Software developer
-Currently I am studying now: React,Vue,TypeScript)
+
 
 ------------------
 My projects: 
