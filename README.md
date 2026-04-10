@@ -23,10 +23,12 @@ I build scalable backend systems — from monoliths to microservices, from datab
 
 ### 🔍 My Projects
 
-> 🚧 Coming soon...
+[![DevTasks](https://github-readme-stats.vercel.app/api/pin/?username=HardCodeIn&repo=DevTasks&theme=tokyonight&hide_border=true)](https://github.com/HardCodeIn/DevTasks)
+[![PluginCopyParameters](https://github-readme-stats.vercel.app/api/pin/?username=HardCodeIn&repo=PluginCopyParameters&theme=tokyonight&hide_border=true)](https://github.com/HardCodeIn/PluginCopyParameters)
+[![MonitoringBIMModel](https://github-readme-stats.vercel.app/api/pin/?username=HardCodeIn&repo=MonitoringBIMModel&theme=tokyonight&hide_border=true)](https://github.com/HardCodeIn/MonitoringBIMModel)
+[![UrbanPulse](https://github-readme-stats.vercel.app/api/pin/?username=HardCodeIn&repo=UrbanPulse&theme=tokyonight&hide_border=true)](https://github.com/HardCodeIn/UrbanPulse)
+[![DealerAutoCenter](https://github-readme-stats.vercel.app/api/pin/?username=HardCodeIn&repo=DealerAutoCenter&theme=tokyonight&hide_border=true)](https://github.com/HardCodeIn/DealerAutoCenter)
 
 ---
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanislavtormosin&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardCodeIn&show_icons=true&theme=tokyonight&hide_border=true)
