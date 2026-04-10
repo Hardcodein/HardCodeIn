@@ -21,19 +21,11 @@ I build scalable backend systems — from monoliths to microservices, from datab
 
 ---
 
-### 🔍 My Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [DevTasks](https://github.com/HardCodeIn/DevTasks) | C# | Task management tool for developers |
-| [PluginCopyParameters](https://github.com/HardCodeIn/PluginCopyParameters) | C# | Plugin for copying parameters |
-| [MonitoringBIMModel](https://github.com/HardCodeIn/MonitoringBIMModel) | C# | BIM model monitoring system |
-| [UrbanPulse](https://github.com/HardCodeIn/UrbanPulse) | Python | Urban data analytics |
-| [DealerAutoCenter](https://github.com/HardCodeIn/DealerAutoCenter) | C# | Auto dealer management system |
-
----
-
 ### 📊 GitHub Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=HardCodeIn&color=blue&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardCodeIn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardCodeIn&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HardCodeIn&theme=tokyonight&hide_border=true)
