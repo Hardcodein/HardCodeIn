@@ -1,3 +1,5 @@
+**English** | [Русский](README.ru.md)
+
 # Hi there 👋 My name is Stanislav!
 
 ### 🚀 Backend Developer · C# / .NET · TypeScript
