@@ -14,6 +14,8 @@ Lately I've also been shipping full-stack TypeScript products on Bun: type-safe 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Npgsql](https://img.shields.io/badge/Npgsql-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Backend — TypeScript**
 
@@ -23,6 +25,12 @@ Lately I've also been shipping full-stack TypeScript products on Bun: type-safe 
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
+**Backend — Python & Geo**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=pandas&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -30,6 +38,9 @@ Lately I've also been shipping full-stack TypeScript products on Bun: type-safe 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre_GL-396CB2?style=flat&logo=maplibre&logoColor=white)
 
 **Data & Messaging**
 
@@ -38,6 +49,7 @@ Lately I've also been shipping full-stack TypeScript products on Bun: type-safe 
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![RustFS](https://img.shields.io/badge/RustFS-000000?style=flat&logo=rust&logoColor=white)
 
 **DevOps & Observability**
 
@@ -46,21 +58,9 @@ Lately I've also been shipping full-stack TypeScript products on Bun: type-safe 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📦 Featured Project — Tools.Cloud
-
-Full-stack SaaS marketplace, built as a Bun monorepo (`app` / `client` / `ui`).
-
-- **Backend:** Hono + Drizzle ORM (PostgreSQL), BetterAuth with organizations and roles, SSR pages
-- **Type-safe API:** Hono RPC, so client and server share types end to end without OpenAPI codegen
-- **Error handling:** typed `Result` pipelines with `neverthrow` instead of try/catch
-- **Frontend:** React 19 SPA with Effector, Atomic Router, Farfetched and React Hook Form
-- **UI kit:** shadcn/ui on Radix and Tailwind CSS 4
-- **Production:** clustered workers with crash protection, Pino logs, Prometheus metrics, Sentry, S3 file storage
-- **Quality:** Biome, strict TypeScript, Bun tests against a real Postgres in Docker, GitLab CI
-
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logo=victoriametrics&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
